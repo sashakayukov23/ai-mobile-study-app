@@ -1,4 +1,4 @@
-# Kiko (MVP / Working Prototype)
+# Kiko - AI Study App (MVP / Working Prototype)
 
 > **Note:** "Kiko" is a working title for this MVP. This repository showcases the development of a cross-platform AI study app, currently in the functional prototype phase.
 
@@ -84,9 +84,20 @@ Users can study, quiz, and review entirely offline. The app syncs with the local
 
 ---
 
-## 📸 Screenshots
+## 👁️ App Demo / Preview
+> **Note:** GIFs have reduced FPS, which is why they look a bit slow.
 
+![swipe-demo](https://github.com/user-attachments/assets/bd8bed68-2ecd-47fd-8062-6a85e221454b)
 
+![quiz-demo](https://github.com/user-attachments/assets/d24df104-121d-4864-a0c2-a4aa128eb043)
+
+![swipe-finish](https://github.com/user-attachments/assets/e53128af-7d7d-47db-a986-f35748114713)
+
+![import-content](https://github.com/user-attachments/assets/eeff550f-875f-4f71-b6d9-f3dcffd6da07)
+
+![folder-decks](https://github.com/user-attachments/assets/02e25be4-4298-4d42-842e-d098469f4ecf)
+
+![view-tldr-add-note](https://github.com/user-attachments/assets/70102df9-2fe6-4325-ad49-868794fcfb18)
 
 ---
 
